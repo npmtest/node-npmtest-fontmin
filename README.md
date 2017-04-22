@@ -1,4 +1,7 @@
-# test coverage for  [fontmin (v0.9.6)](https://github.com/ecomfe/fontmin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-fontmin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fontmin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fontmin.svg)](https://travis-ci.org/npmtest/node-npmtest-fontmin)
+# npmtest-fontmin
+
+#### basic test coverage for  [fontmin (v0.9.6)](https://github.com/ecomfe/fontmin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-fontmin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fontmin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fontmin.svg)](https://travis-ci.org/npmtest/node-npmtest-fontmin)
+
 #### Minify font seamlessly, font subsetter, webfont (eot, woff, svg) converter.
 
 [![NPM](https://nodei.co/npm/fontmin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/fontmin)
